@@ -1,6 +1,6 @@
-# Power BI Sales Dashboard
+# Sales Dashboard
 
-## 📌 Project Overview
+## 📌 Objective
 
 The objective was to design an interactive and visually compelling sales dashboard using Power BI that could help stakeholders understand overall performance and make data-driven decisions.
 
